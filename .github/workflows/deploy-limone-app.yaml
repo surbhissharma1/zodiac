@@ -7,8 +7,8 @@ name: Deploy Limone App
       
 env:
    DEFAULT_LOCATION: uksouth
-   LIMONE_ALIAS: clsurbhilimone
-   ZODIAC_ALIAS: bpzodiac
+   LIMONE_ALIAS: clssurbhilimone
+   ZODIAC_ALIAS: clsurbhizodiac
 
 on: [workflow_dispatch]
 
