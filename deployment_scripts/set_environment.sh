@@ -9,8 +9,8 @@ export LIBRA_ALIAS=clsurbhilibra
 export ZODIAC_ALIAS=clsurbhizodiac
 export DB_ADMIN_USER=surbhi
 export AAD_DOMAIN=xekina.onmicrosoft.com
-export AAD_TENANTID=0249f56d-a6ef-4bb5-be97-78da7e235bc6
-export AAD_CLIENTID=1d328983-0ca7-4947-9217-b8146a0a3bb2
+export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
+export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
